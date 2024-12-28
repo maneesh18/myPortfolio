@@ -6,7 +6,7 @@ export const media_sources = [
     },
     {
         "platform" : "portfolio",
-        "src" : "https://maneesh18.github.io/Portfolio",
+        "src" : "https://maneesh18.github.io/myPortfolio/",
         "iconClass" : "fa fa-chrome"
     },
     {
