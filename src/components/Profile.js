@@ -17,10 +17,11 @@ function Profile() {
       </div>
       <div className='profile-body'>
         <h4 style={{textAlign:"center"}}>{profile_data.email}</h4>
-        <h4 style={{textAlign:"center"}}>{profile_data.address}</h4>
+        {/* <h4 style={{textAlign:"center"}}>{profile_data.currentJob}</h4> */}
       </div>
       <div className='profile-footer'>
-        <p className="body-text" style={{wordWrap:"break-word", textAlign : "center"}}>I build accessible, inclusive products and digital experiences for the web.</p>
+        <p className="body-text" style={{wordWrap:"break-word", textAlign : "center"}}>I am skilled in translating vision into technology by developing scalable, enterprise-level solutions with
+        Java, Spring Boot, and Microservices that seamlessly connect people, systems, and ideas.</p>
         <div className="d-flex flex-row justify-content-center">
           {media_sources.map((media, index)=>{
             return <div><Icon iconClass={media.iconClass} mediaSrc={media.src} key={index} ></Icon></div>

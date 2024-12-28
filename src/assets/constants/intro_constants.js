@@ -1,4 +1,4 @@
 export const intro_constants = {
-    "author" : "Varun",
-    "tagline" : "I design and code beautifully simple things and i love what i do. Just simple like that!"
+    "author" : "Maneesh",
+    "tagline" : "Bringing ideas to life with scalable solutions, seamless integrations, and innovative technology."
 }
