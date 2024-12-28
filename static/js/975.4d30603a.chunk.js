@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkportfolio=self.webpackChunkportfolio||[]).push([[975],{975:(o,p,t)=>{o.exports=t.p+"static/media/fake_product_monitoring.2120103a72c425d19223.png"}}]);

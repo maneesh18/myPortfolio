@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkportfolio=self.webpackChunkportfolio||[]).push([[157],{157:(o,c,p)=>{o.exports=p.p+"static/media/covid_dashboard.857238cfc427f15f3c7a.png"}}]);
