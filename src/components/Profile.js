@@ -20,7 +20,7 @@ function Profile() {
         {/* <h4 style={{textAlign:"center"}}>{profile_data.currentJob}</h4> */}
       </div>
       <div className='profile-footer'>
-        <p className="body-text" style={{wordWrap:"break-word", textAlign : "center"}}>I am skilled in translating vision into technology by developing scalable, enterprise-level solutions with
+        <p className="body-text" style={{wordWrap:"break-word", textAlign : "center"}}>I am skilled in transforming vision into technology by developing scalable, enterprise-level solutions with
         Java, Spring Boot, and Microservices that seamlessly connect people, systems, and ideas.</p>
         <div className="d-flex flex-row justify-content-center">
           {media_sources.map((media, index)=>{
