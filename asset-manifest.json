@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/myPortfolio/static/css/main.ece6696d.css",
-    "main.js": "/myPortfolio/static/js/main.45a88142.js",
+    "main.js": "/myPortfolio/static/js/main.d22c5863.js",
     "static/js/578.668b200d.chunk.js": "/myPortfolio/static/js/578.668b200d.chunk.js",
     "static/js/966.846508c9.chunk.js": "/myPortfolio/static/js/966.846508c9.chunk.js",
     "static/js/157.2acf51e1.chunk.js": "/myPortfolio/static/js/157.2acf51e1.chunk.js",
@@ -23,13 +23,13 @@
     "static/js/316.3faee029.chunk.js": "/myPortfolio/static/js/316.3faee029.chunk.js",
     "static/js/123.406b9536.chunk.js": "/myPortfolio/static/js/123.406b9536.chunk.js",
     "static/js/453.1407b060.chunk.js": "/myPortfolio/static/js/453.1407b060.chunk.js",
-    "static/media/me3.jpg": "/myPortfolio/static/media/me3.6f60a35964d73ec23974.jpg",
     "static/media/university.jpg": "/myPortfolio/static/media/university.4c1cb6ad1a1e7fbec5a7.jpg",
     "static/media/coding.gif": "/myPortfolio/static/media/coding.9ad86c94e00141a7c3a0.gif",
     "static/media/covid_dashboard.png": "/myPortfolio/static/media/covid_dashboard.857238cfc427f15f3c7a.png",
     "static/media/coupon-x.png": "/myPortfolio/static/media/coupon-x.a821e824d395f4801750.png",
     "static/media/loading_page.gif": "/myPortfolio/static/media/loading_page.36bbff10dbefac845750.gif",
     "static/media/fake_product_monitoring.png": "/myPortfolio/static/media/fake_product_monitoring.2120103a72c425d19223.png",
+    "static/media/me3.jpg": "/myPortfolio/static/media/me3.b45bbc4713f8a898bcb8.jpg",
     "static/media/me2.jpeg": "/myPortfolio/static/media/me2.9e87686eac8232fc66bb.jpeg",
     "static/media/loading_page2.gif": "/myPortfolio/static/media/loading_page2.3b11d57462be50a3f7d4.gif",
     "static/media/python.png": "/myPortfolio/static/media/python.1b9de615331ee4d8c795.png",
@@ -39,11 +39,11 @@
     "static/media/profile-icon.jpg": "/myPortfolio/static/media/profile-icon.14a2ffd9d32540e9b027.jpg",
     "index.html": "/myPortfolio/index.html",
     "main.ece6696d.css.map": "/myPortfolio/static/css/main.ece6696d.css.map",
-    "main.45a88142.js.map": "/myPortfolio/static/js/main.45a88142.js.map",
+    "main.d22c5863.js.map": "/myPortfolio/static/js/main.d22c5863.js.map",
     "453.1407b060.chunk.js.map": "/myPortfolio/static/js/453.1407b060.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ece6696d.css",
-    "static/js/main.45a88142.js"
+    "static/js/main.d22c5863.js"
   ]
 }
