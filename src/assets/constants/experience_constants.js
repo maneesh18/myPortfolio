@@ -8,7 +8,7 @@ export const experience_constants = [
         "skills" : ["System Design", "Project Management", "System and Network"]
     },
     {
-        "timeline" : "Jan 2022 - Oct 2022",
+        "timeline" : "Apr 2021 - June 2023",
         "company" : "Simplify Workforce Private Limited ",
         "highest_designation" : "Full Stack Developer ",
         "previous_designations" : [],
