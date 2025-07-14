@@ -17,7 +17,7 @@ export const experience_constants = [
     },
     {
         "timeline" : "June 2022 - Sept 2023",
-        "company" : "Simplify ",
+        "company" : "Nano Tech E Services Private Limited",
         "highest_designation" : "Full Stack Developer ",
         "previous_designations" : [],
         "description" : "Integrated push notifications, and optimized rendering using Server-Side Events to improve user retention by 25%. Designed and developed a scalable Notification Service using Java, Spring Boot, supporting multi-channel delivery (In-App, Email, SMS) via integration with third-party APIs, enabling flexible and centralized notification handling. Built reusable responsive React Native components with real-time cloud API integration, boosting user engagement and perceived usability by 60%.",
