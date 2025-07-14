@@ -8,7 +8,7 @@ export const experience_constants = [
         "skills" : ["React Native", "Tailwind CSS", "Node.js", "MySQL"]
     },
     {
-        "timeline" : "Oct 2023 - present",
+        "timeline" : "Oct 2023 - August 2025",
         "company" : "Webster University",
         "highest_designation" : "Master's in Information Technology Management",
         "previous_designations" : ["Grade - 3.7"],
