@@ -21,7 +21,7 @@ function Profile() {
       </div>
       <div className='profile-footer'>
         <p className="body-text" style={{wordWrap:"break-word", textAlign : "center"}}>I am skilled in transforming vision into technology by developing scalable, enterprise-level solutions with
-        Java, Spring Boot, and Microservices that seamlessly connect people, systems, and ideas.</p>
+        Java, Spring Boot, React, Node.js and Microservices that seamlessly connect people, systems, and ideas.</p>
         <div className="d-flex flex-row justify-content-center">
           {media_sources.map((media, index)=>{
             return <div><Icon iconClass={media.iconClass} mediaSrc={media.src} key={index} ></Icon></div>
