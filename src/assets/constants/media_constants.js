@@ -11,7 +11,7 @@ export const media_sources = [
     },
     {
         "platform" : "linkedin",
-        "src" : "https://www.linkedin.com/in/maneeshreddygandu/",
+        "src" : "https://www.linkedin.com/in/maneeshg-se/",
         "iconClass" : "fa fa-linkedin"
     },
     {

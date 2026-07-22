@@ -1,6 +1,6 @@
 export const profile_data = {
-    "author" : "Maneesh Reddy Gandu",
-    "designation" : "Full Stack Developer at Diaryz",
-    "currentJob" : "Full Stack Developer at Diaryz",
+    "author" : "Maneesh G",
+    "designation" : "Software Engineer@ ITion Solutions",
+    "currentJob" : "Software Engineer@ ITion Solutions",
     "email" : "maneesh.forjobs@gmail.com"
 }
