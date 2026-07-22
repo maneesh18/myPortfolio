@@ -1,5 +1,12 @@
 export const project_constants = [
     {
+        "title" : "OfferTrust",
+        "description" : "Offer Letter Verification Platform that enables job seekers to instantly verify the authenticity of offer letters using cryptographic signatures, QR codes, and recruiter details, helping prevent recruitment fraud.",
+        "technologies_used" : ["React.js", "Next.js", "TypeScript", "Python", "MongoDB" ],
+        "code_link" : "https://github.com/maneesh18/OfferTrust.git",
+        "project_image" : "offerTrust.png"
+    },
+    {
         "title" : "Student Information System",
         "description" : "Designed and implemented a React.js-powered University portal integrating academic tools, communication channels, and campus updates for students and staﬀ, enhancing academic pursuits’ eﬃciency and convenience significantly.",
         "technologies_used" : ["HTML/CSS", "JavaScript", "ReactJs", "Spring Boot", "MySQL" ],

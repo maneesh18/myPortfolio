@@ -9,8 +9,8 @@ function Profile() {
   return (
     <div className='profile d-flex flex-column align-items-center justify-content-around p-3'>
       <div className='profile-heading'>
-        <h6 className='display-6'>{profile_data.author}</h6>
-        <span style={{float:'right'}}>{profile_data.designation}</span>
+        <h6 className='display-6 profile-body'>{profile_data.author}</h6>
+        <span className='profile-body' style={{float:'right'}}>{profile_data.designation}</span>
       </div>
       <div className='profile-pic'>
       <img src={profile_icon} height={"200px"} width={"200px"} className='rounded' style={{objectFit:"cover", objectPosition:"50% 10%", filter:"grayscale(100%)"}} alt='profile'></img>
