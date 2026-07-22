@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkportfolio=self.webpackChunkportfolio||[]).push([[47],{47:(e,o,p)=>{e.exports=p.p+"static/media/offerTrust.761ea484391470592ed4.png"}}]);
