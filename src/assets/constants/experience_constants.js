@@ -24,7 +24,7 @@ export const experience_constants = [
         "skills" : ["System Design", "Project Management", "System and Network"]
     },
     {
-        "timeline" : "June 2021 - Sept 2023",
+        "timeline" : "June 2021 - June 2022",
         "company" : "SimplifyVMS",
         "highest_designation" : "Software Engineer",
         "previous_designations" : [],
